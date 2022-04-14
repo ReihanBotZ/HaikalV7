@@ -17,5 +17,5 @@ const logo = `
 ︎☂︎. _DANA_
 
 *MINAT?* :
-https://wa.me/6281514320594`
+https://wa.me/6285368159958`
 exports.logo = logo
